@@ -13,6 +13,7 @@ body {
     display: grid;
     justify-items: center;
     align-items: center;
+    padding: 20px;
     
 } 
 
@@ -33,12 +34,16 @@ section.img > img {
 }
 
 .learing {
-    display: grid;
+    justify-self: start;
     background-color: hsl(47, 88%, 63%);
     text-align: center;
+    font-size: .8em;
     border-radius: 5px;
-    width: 100px;
     margin:0px 20px 20px 20px;
+}
+
+.learing > h2 {
+    margin: 3px;
 }
 
 .date {
