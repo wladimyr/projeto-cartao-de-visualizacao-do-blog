@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./assets/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/wladimyr/projeto-cartao-de-visualizacao-do-blog)
-- Live Site URL: [Add live site URL here](https://wladimyr.github.io/projeto-componente-de-codigo-QR/)
+- Live Site URL: [Add live site URL here](https://wladimyr.github.io/projeto-cartao-de-visualizacao-do-blog/)
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Tive a oportunidade de aplicar meu conhecimento adquirido com o Professor Gustavo Guanabara através dos cursos do site: (https://www.cursoemvideo.com/)
+I had the opportunity to apply my knowledge acquired with Professor Gustavo Guanabara through the courses on the website: (https://www.cursoemvideo.com/)
 
 ### Continued development
 
