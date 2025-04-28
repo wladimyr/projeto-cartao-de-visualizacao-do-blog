@@ -18,7 +18,7 @@ body {
 
 main {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 375px;
     box-shadow: 10px 10px hsl(0, 0%, 7%);
     display: grid;
